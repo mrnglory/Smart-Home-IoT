@@ -1,5 +1,5 @@
 # Smart-Home-IoT
-This is the content of Smart Home IoT on the theme of the 2020-1 Semester Multidisciplinary Design (Capstone Design) project. <br/>
+> This is the project with the theme of Smart Home IoT during the 2020-1 Semester Multidisciplinary Design (Capstone Design) project
 
 <ul>Note
 <li>This is a project that automates the operation of indoor home appliances according to the values of temperature, humidity, and fine dust.</li>
