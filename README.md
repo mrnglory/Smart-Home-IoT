@@ -4,7 +4,7 @@
 <ul>Note
 <li>This is a project that automates the operation of indoor home appliances according to the values of temperature, humidity, and fine dust.</li>
 <li>As a prototype, not a real home appliance, we promise to display the operating status with an LED light bulb.</li>
-<li>Process and sense fine dust data with Raspberry Pi and temperature/humidity data with Arduino.</li>
+<li>It Processes and senses the fine dust data with Raspberry Pi and temperature/humidity data with Arduino.</li>
 </ul> 
 
 More details can be found in the following pdf file. <br/>
